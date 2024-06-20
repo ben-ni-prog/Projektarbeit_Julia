@@ -87,8 +87,8 @@ function submit_ui()
   ])
 end
 
-task = ""
-author = ""
+task = "Placeholder"
+author = "Placeholder"
 due_date = Dates.today()
 
 function Button_process()
@@ -96,6 +96,10 @@ function Button_process()
   #task = params(:Task_text, "Placeholder")
   #author = params(:Author_text, "Placeholder")
   #due_date = params(:Datefield_due_date, Dates.today())
+
+  task = Task_text
+  author = Author_text
+  due_date = Datefield_due_date
 
   # Create the SQL query
   sql_query = "INSERT INTO Listelements (task, author, date) VALUES (?, ?, ?)"

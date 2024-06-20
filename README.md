@@ -14,13 +14,12 @@ https://juliadatabases.org/SQLite.jl/stable/
 https://docs.juliahub.com/DataFrames/AR9oZ/0.21.5/
 
 To start the Programm, please follow the next steps:
-1. run the files db_setup.jl and App.jl
-2. in the Julia REPL, enter:
+1. run the files routes.jl and App.jl
+2. in the terminal, enter:
     using Genie
     Genie.loadapp()
     up()
 3. open the following link in your browser: http://127.0.0.1:8000/
 
-The modified files are restricted to the routes.jl and App.jl files and the files contained within folder db. 
+The modified files are restricted to the routes.jl and App.jl files and the folders db. 
 Functionalities and explanations for this can be found within the files respectively.
-routes.jl is not used anymore

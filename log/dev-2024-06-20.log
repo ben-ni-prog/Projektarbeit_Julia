@@ -5444,3 +5444,1860 @@
 └ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
 ┌ Info: 2024-06-20 17:21:19 Autoreloading
 └ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:13:54 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\benni\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-06-20 21:13:54 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\benni\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-06-20 21:14:07 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:14:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:03 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:17:03 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:41 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:17:47 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:17:47 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:37 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:18:54 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:18:54 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:38 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:19:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:19:43 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:10 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:21:11 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:21:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:22:00 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:22:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:23:44 Warning: Variable 'author' not yet defined
+└ @ Main.App C:\Users\benni\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:533
+┌ Info: 2024-06-20 21:23:45 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:23:49 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:28:18 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:28:28 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:28:32 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:28:32 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:33:57 Warning: Variable 'author_out' not yet defined
+└ @ Main.App C:\Users\benni\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:533
+┌ Info: 2024-06-20 21:33:57 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:33:57 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:34:09 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:34:09 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:34:09 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:34:09 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:34:09 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:34:11 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:34:11 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:35:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:35:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:35:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:35:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:35:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:35:05 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:35:08 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:35:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:35:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:35:32 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:35:32 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:35:32 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:35:32 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:35:32 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:35:32 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:35:32 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:35:38 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:35:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Warning: 2024-06-20 21:36:19 UndefVarError(:author)
+└ @ Stipple C:\Users\benni\.julia\packages\Stipple\0khJ6\src\Stipple.jl:993
+┌ Warning: 2024-06-20 21:38:53 UndefVarError(:author)
+└ @ Stipple C:\Users\benni\.julia\packages\Stipple\0khJ6\src\Stipple.jl:993
+┌ Info: 2024-06-20 21:39:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:39:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:39:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:39:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:39:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:39:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:39:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:39:08 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:39:09 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:39:09 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Warning: 2024-06-20 21:39:24 UndefVarError(:author)
+└ @ Stipple C:\Users\benni\.julia\packages\Stipple\0khJ6\src\Stipple.jl:993
+┌ Info: 2024-06-20 21:39:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:39:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:39:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:39:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:39:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:39:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:39:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:39:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:39:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:39:55 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:39:56 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Warning: 2024-06-20 21:40:15 UndefVarError(:author)
+└ @ Stipple C:\Users\benni\.julia\packages\Stipple\0khJ6\src\Stipple.jl:993
+┌ Info: 2024-06-20 21:43:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:43:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:43:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:43:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:43:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:43:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:43:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:43:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:43:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:43:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:48:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:48:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:48:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:48:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:48:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:48:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:48:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:48:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:48:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:48:00 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:48:14 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:48:14 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Warning: 2024-06-20 21:50:37 UndefVarError(:Task_text)
+└ @ Stipple C:\Users\benni\.julia\packages\Stipple\0khJ6\src\Stipple.jl:993
+┌ Info: 2024-06-20 21:52:35 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:52:35 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:52:35 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:52:35 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:52:35 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:52:35 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:52:35 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:52:35 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:52:35 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:52:35 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:52:35 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:52:38 Warning: Variable 'due_date' not yet defined
+└ @ Main.App C:\Users\benni\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:533
+┌ Info: 2024-06-20 21:52:38 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:52:38 Warning: Variable 'task' not yet defined
+└ @ Main.App C:\Users\benni\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:533
+┌ Info: 2024-06-20 21:52:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:55:20 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:55:20 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:55:20 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:55:20 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:55:20 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:55:20 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:55:20 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:55:20 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:55:20 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:55:20 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:55:20 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:55:20 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:55:25 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:55:25 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-06-20 21:55:37 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#9":
+│  [1] (::Main.App.var"#9#13")(Author_text)
+│      @ C:\Users\benni\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:1062
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─ %1  = Base.getproperty(Main.App.Main, :Routes)
+│ │   %2  = Base.getproperty(%1, :Author_text)
+│ │   %3  = Core.getfield(#self#, :__model__)
+│ │   %4  = Base.getproperty(%3, :author)
+│ │         Base.setindex!(%4, %2)
+│ │         Main.App.println(Author_text)
+│ │   %7  = Core.getfield(#self#, :__model__)
+│ │   %8  = Base.getproperty(%7, :author)
+│ │   %9  = Base.getindex(%8)
+│ │   %10 = Main.App.println(%9)
+│ └──       return %10
+│ )]
+│ 
+│   Type of argument:
+│   String
+│ 
+│   Value:
+│   benni
+│ 
+│   Exception:
+│   UndefVarError(:Author_text)
+│ 
+│   exception = (UndefVarError(:Author_text), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffcab71e266, Ptr{Nothing} @0x00007ffcab6b376a, Ptr{Nothing} @0x000001d99818ab09, Ptr{Nothing} @0x000001d99818abe2, Ptr{Nothing} @0x00007ffcab6a695a, Ptr{Nothing} @0x000001d99ea7dc05, Ptr{Nothing} @0x000001d99ea7e6cc, Ptr{Nothing} @0x000001d99ea7e72a, Ptr{Nothing} @0x000001d99818a9e8, Ptr{Nothing} @0x000001d998187b41, Ptr{Nothing} @0x000001d998187e1b, Ptr{Nothing} @0x000001d99ea5ba55, Ptr{Nothing} @0x000001d99ea5bec7, Ptr{Nothing} @0x000001d99ea5bf5b, Ptr{Nothing} @0x000001d99ea5bf9f, Ptr{Nothing} @0x000001d99ea49142, Ptr{Nothing} @0x000001d99ea4919b, Ptr{Nothing} @0x00007ffcab6a695a, Ptr{Nothing} @0x00007ffc755f961a, Ptr{Nothing} @0x00007ffc7552dd50, Ptr{Nothing} @0x00007ffc75671268, Ptr{Nothing} @0x000001d9f4cadb54, Ptr{Nothing} @0x000001d9f4cadc22, Ptr{Nothing} @0x00007ffcab6a695a, Ptr{Nothing} @0x000001d9f4ca89cf, Ptr{Nothing} @0x000001d9f4caad7c, Ptr{Nothing} @0x000001d9f4cab38b, Ptr{Nothing} @0x00007ffcab6bbf3b])
+└ @ Stipple C:\Users\benni\.julia\packages\Stipple\0khJ6\src\stipple\mutators.jl:54
+┌ Info: 2024-06-20 21:57:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:57:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:57:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:57:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:57:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:57:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:57:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:57:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:57:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:57:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:57:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:57:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:57:16 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:57:19 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:57:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-06-20 21:57:27 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#9":
+│  [1] (::Main.App.var"#9#13")(Author_text)
+│      @ C:\Users\benni\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:1062
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─ %1 = Base.getproperty(Main.App.Main, :Routes)
+│ │   %2 = Base.getproperty(%1, :Author_text)
+│ │   %3 = Core.getfield(#self#, :__model__)
+│ │   %4 = Base.getproperty(%3, :author)
+│ │        Base.setindex!(%4, %2)
+│ └──      return %2
+│ )]
+│ 
+│   Type of argument:
+│   String
+│ 
+│   Value:
+│   benni
+│ 
+│   Exception:
+│   UndefVarError(:Author_text)
+│ 
+│   exception = (UndefVarError(:Author_text), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffcab71e266, Ptr{Nothing} @0x00007ffcab6b376a, Ptr{Nothing} @0x000001d9981bfb12, Ptr{Nothing} @0x000001d9981bfbb2, Ptr{Nothing} @0x00007ffcab6a695a, Ptr{Nothing} @0x000001d99ea7dc05, Ptr{Nothing} @0x000001d99ea7e6cc, Ptr{Nothing} @0x000001d99ea7e72a, Ptr{Nothing} @0x000001d9981bf9f8, Ptr{Nothing} @0x000001d9981bcbf1, Ptr{Nothing} @0x000001d9981bcecb, Ptr{Nothing} @0x000001d99ea5ba55, Ptr{Nothing} @0x000001d99ea5bec7, Ptr{Nothing} @0x000001d99ea5bf5b, Ptr{Nothing} @0x000001d99ea5bf9f, Ptr{Nothing} @0x000001d99ea49142, Ptr{Nothing} @0x000001d99ea4919b, Ptr{Nothing} @0x00007ffcab6a695a, Ptr{Nothing} @0x00007ffc755f961a, Ptr{Nothing} @0x00007ffc7552dd50, Ptr{Nothing} @0x00007ffc75671268, Ptr{Nothing} @0x000001d9f4cadb54, Ptr{Nothing} @0x000001d9f4cadc22, Ptr{Nothing} @0x00007ffcab6a695a, Ptr{Nothing} @0x000001d9f4ca89cf, Ptr{Nothing} @0x000001d9f4caad7c, Ptr{Nothing} @0x000001d9f4cab38b, Ptr{Nothing} @0x00007ffcab6bbf3b])
+└ @ Stipple C:\Users\benni\.julia\packages\Stipple\0khJ6\src\stipple\mutators.jl:54
+┌ Info: 2024-06-20 21:59:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:39 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:50 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:50 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:50 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:50 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:50 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:50 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:50 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:50 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:50 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:50 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:50 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:50 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:50 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:50 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 21:59:53 Warning: Variable 'due_date' not yet defined
+└ @ Main.App C:\Users\benni\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:533
+┌ Info: 2024-06-20 21:59:53 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 21:59:53 Warning: Variable 'task' not yet defined
+└ @ Main.App C:\Users\benni\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:533
+┌ Info: 2024-06-20 21:59:54 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:00:53 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:00:53 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:00:53 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:00:53 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:00:53 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:00:53 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:00:53 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:00:53 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:00:53 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:00:53 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:00:53 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:00:53 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:00:53 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:00:53 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:00:53 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:00:59 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 22:00:59 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-06-20 22:01:09 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#9":
+│  [1] (::Main.App.var"#9#13")(Author_text)
+│      @ C:\Users\benni\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:1062
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─ %1  = Base.getproperty(Main.App.Main, :Routes)
+│ │   %2  = Base.getproperty(%1, :Author_text)
+│ │   %3  = Core.getfield(#self#, :__model__)
+│ │   %4  = Base.getproperty(%3, :author)
+│ │         Base.setindex!(%4, %2)
+│ │         Main.App.println(Author_text)
+│ │   %7  = Core.getfield(#self#, :__model__)
+│ │   %8  = Base.getproperty(%7, :author)
+│ │   %9  = Base.getindex(%8)
+│ │   %10 = Main.App.println(%9)
+│ └──       return %10
+│ )]
+│ 
+│   Type of argument:
+│   String
+│ 
+│   Value:
+│   benni
+│ 
+│   Exception:
+│   UndefVarError(:Author_text)
+│ 
+│   exception = (UndefVarError(:Author_text), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffcab71e266, Ptr{Nothing} @0x00007ffcab6b376a, Ptr{Nothing} @0x000001d9981e1579, Ptr{Nothing} @0x000001d9981e1652, Ptr{Nothing} @0x00007ffcab6a695a, Ptr{Nothing} @0x000001d99ea7dc05, Ptr{Nothing} @0x000001d99ea7e6cc, Ptr{Nothing} @0x000001d99ea7e72a, Ptr{Nothing} @0x000001d9981e1458, Ptr{Nothing} @0x000001d9981de5a1, Ptr{Nothing} @0x000001d9981de87b, Ptr{Nothing} @0x000001d99ea5ba55, Ptr{Nothing} @0x000001d99ea5bec7, Ptr{Nothing} @0x000001d99ea5bf5b, Ptr{Nothing} @0x000001d99ea5bf9f, Ptr{Nothing} @0x000001d99ea49142, Ptr{Nothing} @0x000001d99ea4919b, Ptr{Nothing} @0x00007ffcab6a695a, Ptr{Nothing} @0x00007ffc755f961a, Ptr{Nothing} @0x00007ffc7552dd50, Ptr{Nothing} @0x00007ffc75671268, Ptr{Nothing} @0x000001d9f4cadb54, Ptr{Nothing} @0x000001d9f4cadc22, Ptr{Nothing} @0x00007ffcab6a695a, Ptr{Nothing} @0x000001d9f4ca89cf, Ptr{Nothing} @0x000001d9f4caad7c, Ptr{Nothing} @0x000001d9f4cab38b, Ptr{Nothing} @0x00007ffcab6bbf3b])
+└ @ Stipple C:\Users\benni\.julia\packages\Stipple\0khJ6\src\stipple\mutators.jl:54
+┌ Info: 2024-06-20 22:01:25 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:01:25 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:01:25 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:01:25 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:01:25 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:01:25 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:01:25 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:01:25 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:01:25 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:01:25 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:01:25 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:01:25 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:01:25 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:01:25 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:01:25 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:01:25 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:01:27 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 22:01:27 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-06-20 22:02:46 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#7":
+│  [1] (::Main.App.var"#7#11")(Datefield_due_date)
+│      @ C:\Users\benni\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:1062
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─ %1 = Core.getfield(#self#, :__model__)
+│ │   %2 = Base.getproperty(%1, :due_date)
+│ │        Base.setindex!(%2, Datefield_due_date)
+│ └──      return Datefield_due_date
+│ )]
+│ 
+│   Type of argument:
+│   String
+│ 
+│   Value:
+│   
+│ 
+│   Exception:
+│   ArgumentError("Cannot parse an empty string as a Date or Time")
+│ 
+│   exception = (ArgumentError("Cannot parse an empty string as a Date or Time"), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001d99eaf43b9, Ptr{Nothing} @0x000001d99eaf44b8, Ptr{Nothing} @0x000001d99eaf44ec, Ptr{Nothing} @0x000001d99eaf3823, Ptr{Nothing} @0x00007ffc755f0b66, Ptr{Nothing} @0x000001d9982018b0, Ptr{Nothing} @0x000001d998201906, Ptr{Nothing} @0x00007ffcab6a695a, Ptr{Nothing} @0x000001d99ea7dc05, Ptr{Nothing} @0x000001d99ea7e6cc, Ptr{Nothing} @0x000001d99ea7e72a, Ptr{Nothing} @0x000001d9981fad78, Ptr{Nothing} @0x000001d9981f7ee1, Ptr{Nothing} @0x000001d9981f81bb, Ptr{Nothing} @0x000001d99ea5ba55, Ptr{Nothing} @0x000001d99ea5bec7, Ptr{Nothing} @0x000001d99ea5bf5b, Ptr{Nothing} @0x000001d99ea5bf9f, Ptr{Nothing} @0x000001d99ea49142, Ptr{Nothing} @0x000001d99ea4919b, Ptr{Nothing} @0x00007ffcab6a695a, Ptr{Nothing} @0x00007ffc755f961a, Ptr{Nothing} @0x00007ffc7552dd50, Ptr{Nothing} @0x00007ffc75671268, Ptr{Nothing} @0x000001d9f4cadb54, Ptr{Nothing} @0x000001d9f4cadc22, Ptr{Nothing} @0x00007ffcab6a695a, Ptr{Nothing} @0x000001d9f4ca89cf, Ptr{Nothing} @0x000001d9f4caad7c, Ptr{Nothing} @0x000001d9f4cab38b, Ptr{Nothing} @0x00007ffcab6bbf3b])
+└ @ Stipple C:\Users\benni\.julia\packages\Stipple\0khJ6\src\stipple\mutators.jl:54
+┌ Warning: 2024-06-20 22:02:50 UndefVarError(:Task_text)
+└ @ Stipple C:\Users\benni\.julia\packages\Stipple\0khJ6\src\Stipple.jl:993
+┌ Info: 2024-06-20 22:04:11 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:11 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:11 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:11 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:11 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:11 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:11 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:11 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:11 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:11 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:11 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:11 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:11 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:11 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:11 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:11 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:11 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:14 Warning: Variable 'author' not yet defined
+└ @ Main.App C:\Users\benni\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:533
+┌ Info: 2024-06-20 22:04:14 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 22:04:14 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:51 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:04:56 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 22:04:56 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Warning: 2024-06-20 22:05:47 UndefVarError(:Task_text)
+└ @ Stipple C:\Users\benni\.julia\packages\Stipple\0khJ6\src\Stipple.jl:993
+┌ Info: 2024-06-20 22:14:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:14:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:14:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:14:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:14:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:14:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:14:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:14:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:14:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:14:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:14:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:14:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:14:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:14:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:14:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:14:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:14:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:14:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:14:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:14:22 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 22:14:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:38 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:52 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:16:54 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 22:16:54 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:19:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:20:48 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 22:20:48 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Warning: 2024-06-20 22:21:54 UndefVarError(:Task_text)
+└ @ Stipple C:\Users\benni\.julia\packages\Stipple\0khJ6\src\Stipple.jl:993
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:40 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:23:43 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 22:23:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Warning: 2024-06-20 22:24:04 SQLiteException("cannot commit - no transaction is active")
+└ @ Stipple C:\Users\benni\.julia\packages\Stipple\0khJ6\src\Stipple.jl:993
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:25:14 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 22:25:14 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Warning: 2024-06-20 22:25:45 SQLiteException("cannot commit - no transaction is active")
+└ @ Stipple C:\Users\benni\.julia\packages\Stipple\0khJ6\src\Stipple.jl:993
+┌ Info: 2024-06-20 22:35:19 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 22:35:19 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:35:22 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Warning: 2024-06-20 22:40:54 SQLiteException("cannot commit - no transaction is active")
+└ @ Stipple C:\Users\benni\.julia\packages\Stipple\0khJ6\src\Stipple.jl:993
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:44 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:48 Watching ["C:\\Users\\benni\\OneDrive\\Desktop\\Projektarbeit_neu\\DatabaseInterface"]
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-06-20 22:42:48 Autoreloading
+└ @ GenieAutoReload C:\Users\benni\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-06-20 22:42:52 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers C:\Users\benni\.julia\packages\HTTP\sJD5V\src\Servers.jl:409
