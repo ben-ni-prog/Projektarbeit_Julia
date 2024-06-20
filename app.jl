@@ -100,7 +100,9 @@ function home_ui()
     #task = Task_text
     #author = Author_text
     #due_date = Datefield_due_date
-  
+    
+    #both methods for getting values from input fields dont work, 
+    
     # Create the SQL query
     sql_query = "INSERT INTO Listelements (task, author, date) VALUES (?, ?, ?)"
   
@@ -146,15 +148,15 @@ function home_ui()
     end
     @in Author_text = ""
     @onchange Author_text begin
-        author = Author_text
-        println(Author_text)
-        println(author)
+        author = Author_text     #--> when calling App.author in terminal, prints "Placeholder"
+        println(Author_text)     #--> when typing in text field, prints correct value in terminal
+        println(author)          #--> when typing in text field, prints correct value in terminal
     end
     @out author
         #submit button functionalities
     @in Button_process = false
     @onbutton Button_process begin
-        Button_process()
+        Button_process()         #--> when clicking button, only commits values "Placeholder" to Database
     end
     
         #To-Do-List table data
@@ -167,7 +169,6 @@ end
 #defining the ui-function and setup of the websites homepage
 #--------------------------------------------------------------------------
 function ui()
-    heading("Placeholder")
     tabgroup(
         :tab_selected,
         inlinelabel = true,
