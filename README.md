@@ -14,8 +14,8 @@ https://juliadatabases.org/SQLite.jl/stable/
 https://docs.juliahub.com/DataFrames/AR9oZ/0.21.5/
 
 To start the Programm, please follow the next steps:
-1. run the files db_setup and App.jl
-2. in the terminal, enter:
+1. run the files db_setup.jl and App.jl
+2. in the Julia REPL, enter:
     using Genie
     Genie.loadapp()
     up()
