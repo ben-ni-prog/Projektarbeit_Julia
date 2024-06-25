@@ -24,6 +24,9 @@ This web app has been generated using Julia and the Genie.Generator package with
 The package documentation can be found here: 
 https://docs.juliahub.com/Genie/8eazC/1.7.2/API/generator.html
 
+The modified files are restricted to the app.jl file and db_setup.jl file in the db folder. db_setup is used to create and connect to a SQLite database. app.jl contains all the code for design and usability of the webpage.
+Further functionalities and detailed explanations for these can be found within the files, respectively.
+
 The webpage has been designed with the GenieFrameworks package:
 https://genieframework.com/
 https://docs.juliahub.com/General/Genie/stable/
@@ -44,9 +47,6 @@ To start the Programm, please open the folder containing the repository in your 
         up()
    
 3. open the following link in your browser: http://127.0.0.1:8000/
-
-The modified files are restricted to the app.jl file and db_setup.jl file in the db folder. db_setup is used to create and connect to a SQLite database. app.jl contains all the code for design and usability of the webpage.
-Further functionalities and detailed explanations for these can be found within the files, respectively.
 
 #-----------------------------------------------------------------------------------------------------------
 
