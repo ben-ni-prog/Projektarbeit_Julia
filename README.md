@@ -70,21 +70,23 @@ Information obtained through conversations with Microsoft Copilot on various dat
 
 You
 in the following julia code using the GenieFramework package i am displaying two links to other pages. Please change the code in a way that these links are displayed in separate lines: 
-route("/") do
-    [ h4("Welcome to the number analysis module"),
-      a("Numbers form", href="/form"),
-      a("Reactive Form", href="/reactive")
-    ]
-end
+
+      route("/") do
+          [ h4("Welcome to the number analysis module"),
+            a("Numbers form", href="/form"),
+            a("Reactive Form", href="/reactive")
+          ]
+      end
 
 
 Copilot: Sure, I can help with that. In Julia, you can use the br() function from the GenieFramework to add a line break between the links. Here’s how you can modify your code:
-route("/") do
-    [ h4("Welcome to the number analysis module"),
-      a("Numbers form", href="/form"),
-      br(),
-      a("Reactive Form", href="/reactive")
-    ]
+
+      route("/") do
+       [ h4("Welcome to the number analysis module"),
+         a("Numbers form", href="/form"),
+         br(),
+         a("Reactive Form", href="/reactive")
+       ]
 end
 In this modified code, br() creates a line break, which will display the links on separate lines. Let me know if you need further assistance! 😊
 
@@ -92,17 +94,23 @@ In this modified code, br() creates a line break, which will display the links o
 •	22.06.2024
 
 You (22.06.24)
-Can i do this?: SQLite.execute(db, "UPDATE Tasks SET status = '1' WHERE task=df_selection.task, author=df_selection.author, date=df_selection.date")
+Can i do this?: 
+
+      SQLite.execute(db, "UPDATE Tasks SET status = '1' WHERE task=df_selection.task, author=df_selection.author, date=df_selection.date")
+
 Copilot
 Usingthe web
 The SQL query you’re trying to execute seems to be trying to update a row in the Tasks table where the task, author, and date match those of df_selection. However, it appears you’re trying to use Julia variables directly in a SQL query, which won’t work as expected.
 You should use parameterized queries to prevent SQL injection attacks and to correctly format the variables. Here’s how you can do it:
-Julia
-using SQLite
 
-#Assuming `db` is your SQLite database connection and `df_selection` is your DataFrame
-SQLite.execute(db, "UPDATE Tasks SET status = '1' WHERE task = ? AND author = ? AND date = ?", (df_selection.task, df_selection.author, df_selection.date))
-AI-generated code. Review and use carefully. More info on FAQ.
+Julia
+
+      using SQLite
+
+      #Assuming `db` is your SQLite database connection and `df_selection` is your DataFrame
+      SQLite.execute(db, "UPDATE Tasks SET status = '1' WHERE task = ? AND author = ? AND date = ?", (df_selection.task, df_selection.author, df_selection.date))
+      #AI-generated code. Review and use carefully. More info on FAQ.
+
 In this code, the ? are placeholders that SQLite will replace with the values from the tuple (df_selection.task, df_selection.author, df_selection.date). This ensures that the values are correctly formatted and safely inserted into the SQL query.
 Please replace df_selection.task, df_selection.author, and df_selection.date with the actual values you want to use.
 Let me know if you need further assistance! 😊
