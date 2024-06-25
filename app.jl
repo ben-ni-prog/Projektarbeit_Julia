@@ -11,11 +11,13 @@ using GenieFramework, Genie.Router, Genie.Requests, Genie.Renderer.Html, Stipple
 include("db/DB_setup.jl")
 using .DB_setup
 
-@genietools
 
-
-
-
+"""
+In the following, the displayed user interfaces for the various navigation tabs were defined.
+These include text fields, tables, input fields, chips and buttons, that enable the user to view and interact
+with the database.
+The database itself was defined in the file db/db_setup.jl.
+"""
 #--------------------------------------------------------------------------
 #Definition for tab "home"
 #--------------------------------------------------------------------------
@@ -298,7 +300,8 @@ function edit_ui()
     h4(class="text-primary", "Delete tasks or move them to completed"),
     br(),
     p(class="text-black","Enter the task ID-number that should be edited. 
-    Afterwards, click the \"Delete\" or \"Complete\" button."),
+    Afterwards, click the button for the action you want to take. Potentially, 
+    follow the instructions on the second cell that opens."),
       #Text input field for task-ID
     textfield(
       "Task-ID",
@@ -910,7 +913,9 @@ function ui()
           tabpanel(name = "submit", submit_ui),
           tabpanel(name = "edit", edit_ui),
       ],
-  )
+  ),
+    #Footnote displayed on the webpage
+  footer("Created by Benjamin Riedel.", class = "bg-secondary")
 end       #of function ui
 
 #--------------------------------------------------------------------------
