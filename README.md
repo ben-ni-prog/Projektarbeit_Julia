@@ -5,17 +5,17 @@ Interaktive SQLite Datenbank mit anbindung an eine Webpage zur erstellung einer 
 # Install
 To run the program, please install the following packages:
 
-add Genie
+      add Genie
 
-add GenieFramework
+      add GenieFramework
 
-add Inflector
+      add Inflector
 
-add JSON
+      add JSON
 
-add SQLite
+      add SQLite
 
-add DataFrames
+      add DataFrames
 
 #-----------------------------------------------------------------------------------------------------------
 
