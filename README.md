@@ -33,7 +33,7 @@ https://juliadatabases.org/SQLite.jl/stable/
 https://docs.juliahub.com/DataFrames/AR9oZ/0.21.5/
 
 
-To start the Programm, please follow the next steps:
+To start the Programm, please open the folder containing the repository in your source code editor and follow the next steps:
 1. run the file app.jl
 2. in the terminal, enter:
    
