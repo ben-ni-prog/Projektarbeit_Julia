@@ -64,6 +64,13 @@ SQLite--------------------------------------------------------------------------
 
 •	https://www.geeksforgeeks.org/working-with-databases-in-julia/ SQLite introduction and usage examples, accessed on 20.06.2024
 
+DataFrames-------------------------------------------------------------------------------------------------
+
+•	https://discourse.julialang.org/t/write-dataframe-to-sqlite-table/8319/3 DataFrames comment chain, about converting SQLite db to DataFrame
+
+•	https://dataframes.juliadata.org/stable/ Full DataFrames documentation and usage examples
+
+
 Information obtained through conversations with Microsoft Copilot on various dates-----------------
 
 •	12.06.2024
